@@ -1,0 +1,7 @@
+/etc
+/include
+/Lib
+/share
+/Scripts
+.env
+pyvenv.cfg
