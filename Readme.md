@@ -22,7 +22,7 @@
   `pip install python-dotenv streamlit azure-storage-blob azure.core azure-ai-documentintelligence`
 
 ##### 3 - Rodar a aplicação
-  `python src/app.py`
+  `streamlit run .\src\app.py`
   
 ### :technologist: Autor
   <a href="https://github.com/me-wsantos">
